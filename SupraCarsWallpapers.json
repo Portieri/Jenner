@@ -1,0 +1,318 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"12345678",
+      "backup_ads_natives":"12345678",
+      "backup_ads_banner":"12345678",
+      "backup_ads_intertitial":"12345678",
+      "backup_ads_rewards":"12345678",
+      "open_ads_admob":"12345678",
+      "open_ads_alien":"12345678",
+      "open_ads_max":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 3,
+      "initialize_sdk":"12345678",
+      "initialize_sdk_backup_ads":"12345678",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (1).jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/gbr (2).jpg"
+    },
+    {
+      "id":3,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (3).jpg"
+    },
+    {
+      "id":4,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (4).jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (5).jpg"
+    },
+    {
+      "id":6,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (6).jpg"
+    },
+    {
+      "id":7,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (7).jpg"
+    },
+    {
+      "id":8,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (8).jpg"
+    },
+    {
+      "id":9,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (9).jpg"
+    },
+    {
+      "id":10,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (10).jpg"
+    },
+{
+      "id":11,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (11).jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/gbr (12).jpg"
+    },
+    {
+      "id":13,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (13).jpg"
+    },
+    {
+      "id":14,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (14).jpg"
+    }
+  ,
+    {
+      "id":15,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (15).jpg"
+    },
+    {
+      "id":16,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (16).jpg"
+    },
+    {
+      "id":17,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (17).jpg"
+    },
+    {
+      "id":18,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (18).jpg"
+    },
+    {
+      "id":19,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (19).jpg"
+    },
+    {
+      "id":20,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (20).jpg"
+    },
+{
+      "id":21,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (21).jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/gbr (22).jpg"
+    },
+    {
+      "id":23,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (23).jpg"
+    },
+    {
+      "id":24,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (24).jpg"
+    }
+  ,
+    {
+      "id":25,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (25).jpg"
+    },
+    {
+      "id":26,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (26).jpg"
+    },
+    {
+      "id":27,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (27).jpg"
+    },
+    {
+      "id":28,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (28).jpg"
+    },
+    {
+      "id":29,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (29).jpg"
+    },
+    {
+      "id":30,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (30).jpg"
+    },
+{
+      "id":31,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (31).jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/gbr (32).jpg"
+    },
+    {
+      "id":33,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (33).jpg"
+    },
+    {
+      "id":34,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (34).jpg"
+    }
+  ,
+    {
+      "id":35,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (35).jpg"
+    },
+    {
+      "id":36,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (36).jpg"
+    },
+    {
+      "id":37,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (37).jpg"
+    },
+    {
+      "id":38,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (38).jpg"
+    },
+    {
+      "id":39,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (39).jpg"
+    },
+    {
+      "id":40,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (40).jpg"
+    },
+{
+      "id":41,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (41).jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/gbr (42).jpg"
+    },
+    {
+      "id":43,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (43).jpg"
+    },
+    {
+      "id":44,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (44).jpg"
+    }
+  ,
+    {
+      "id":45,
+      "name_category": "",
+      "title":"",
+      "image":"file:///android_asset/image/gbr (45).jpg"
+    }
+  ]
+}
