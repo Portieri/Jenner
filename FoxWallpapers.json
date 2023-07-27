@@ -11,7 +11,7 @@
       "backup_ads_banner":"ca-app-pub-3940256099942544/6300978111",
       "backup_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "backup_ads_rewards":"12345678",
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"206545328",
       "initialize_sdk_backup_ads":"12345678",
       "survey_api_key":"12345678",
